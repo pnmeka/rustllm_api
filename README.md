@@ -14,18 +14,18 @@ https://www.nvidia.com/en-us/ai/
 To build the application, you'll need to have Rust and Cargo installed. Clone this repository and run:
 
 
-  git clone https://github.com/pnmeka/rustllm_api
+    git clone https://github.com/pnmeka/rustllm_api
 
-  cd rustllm_api
+    cd rustllm_api
 
 ## Usage
   
 
-  cargo run Hello LLM
+    cargo run Hello LLM
 
 Once you have the binary ready:
 
-rustllm_api $write a message
+    rustllm_api $write a message
 
-  rustllm_api Write a python code to generate a qr code from hello world
+    rustllm_api Write a python code to generate a qr code from hello world
 
