@@ -25,7 +25,7 @@ To build the application, you'll need to have Rust and Cargo installed. Clone th
 
 Once you have the binary ready:
 
-    rustllm_api $write a message
+    ./rustllm_api $write a message
 
-    rustllm_api Write a python code to generate a qr code from hello world
+    ./rustllm_api Write a python code to generate a qr code from hello world
 
