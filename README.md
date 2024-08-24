@@ -18,6 +18,11 @@ To build the application, you'll need to have Rust and Cargo installed. Clone th
 
     cd rustllm_api
 
+## COnfiguration
+Get an API from Nvidia Nims and enter in line 40 in src/main.rs
+
+    .bearer_auth("$ENTER THE API HERE FROM NVIDIA NIM")
+
 ## Usage
   
 
